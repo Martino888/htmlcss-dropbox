@@ -11,12 +11,17 @@ html{
 
 body{
     max-width: 100%;
-    border: 1px solid blue;
+    margin: auto;
 }
 
 button{
     border-style: none;
 }
+
+button:hover{
+opacity: 80%;
+}
+
 .bk{
     border: 1px solid red;
 }
@@ -27,19 +32,22 @@ button{
     width: 100%;
     float: right;
     background-color: white;
+    
 }
 
 .logo{
-    margin-left: 1em; 
+    margin-left: 1em;
+    margin-top: 11px; 
 }
 ul{
     display: inline-block;
     list-style: none;
+    font-size: xx-small;
 }
 
 .space{
     margin-left: 1em;
-    margin-right: 12em;
+    margin-right: 35em;
 }
 
 .space-2{
@@ -60,6 +68,7 @@ li{
     color: white;
     background-color: blue;
     padding: 0.5em;
+    width: 5em;
 }
 
 
@@ -97,7 +106,9 @@ h1{
     color: white;
     background-color: blue;
     padding: 0.5em;
+    width: 15em;
 }
+
 
 .arrow{
     font-size: xx-large;
