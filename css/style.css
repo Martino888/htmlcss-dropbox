@@ -4,49 +4,60 @@
     box-sizing: border-box;
 }
 
+html{
+    font-family: sans-serif;
+    
+}
+
+body{
+    max-width: 100%;
+    border: 1px solid red;
+}
+
 .bk{
     border: 1px solid red;
 }
 
 /*header*/
 .nav-fixed{
-
+    height: 60px;
+    
 }
 
 .sez-1{
-
+    height: 550px;
 }
 
 /*main*/
 .sez-2{
-
+    height: 550px;
 }
 .sez-3{
-
+    height: 550px;
 }
 
 .sez-4{
-
+    height: 550px;
 }
 
 .sez-5{
-
+    height: 550px;
 }
 
 .sez-box{
-
+    height: 550px;
 }
 
 .sez-bigbox{
-
+    height: 550px;
 }
 
 .sez-ansawer{
-
+    height: 550px;
 }
 
 /*footer*/
 
 .footer-cont{
-
+    height: 550px;
 }
