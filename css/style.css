@@ -117,8 +117,63 @@ h1{
 
 /*main*/
 .sez-2{
-    height: 610px;
+    height: 1510px;
+    
 }
+
+
+.h2{
+    font-size: 35px;
+    margin-top: 4em;
+    margin-left: 5em;
+
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    border: solid 5px blue;
+    border-radius: 100%;
+}
+
+.circle2{
+    width: 20px;
+    height: 20px;
+    border:1px solid grey;
+    border-radius: 100%;
+}
+
+.line{
+    display: inline;
+    margin-right: 10px;
+    margin-left:10em ;
+}
+
+.fatturazione{
+    margin-top:4em ;
+}
+
+.column{
+    margin-top:0.5em ;
+}
+
+.col{
+    border: grey 1px solid;
+    width: 250px;
+    height: 600px;
+    display: inline-block;
+    margin: 2em;
+}
+
+.pro{
+    margin-left: 10em;
+}
+
+.sta{
+    
+}
+
+/*inizio-3 sezione */
 .sez-3{
     height: 610px;
 }
