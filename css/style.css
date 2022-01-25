@@ -6,12 +6,12 @@
 
 html{
     font-family: sans-serif;
-    
+    scroll-behavior: smooth;
 }
 
 body{
     max-width: 100%;
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 
 .bk{
@@ -20,40 +20,108 @@ body{
 
 /*header*/
 .nav-fixed{
-    height: 60px;
+    height:60px ;
+    width: 100%;
+    float: right;
+    background-color: white;
+}
+
+.logo{
+    margin-left: 1em; 
+}
+ul{
+    display: inline-block;
+    list-style: none;
+}
+
+.space{
+    margin-left: 1em;
+    margin-right: 12em;
+}
+
+.space-2{
+    margin-right: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    float: left;
+    margin-left: 2em;
+}
+
+.button-nav{
+    margin-left: 18px;
+    color: white;
+    background-color: blue;
+    padding: 0.5em;
+}
+
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.sez-1{
+    height: 650px;
+    background-color: rgb(134, 166, 226);
     
 }
 
-.sez-1{
-    height: 550px;
+.jumbo{
+    margin-top: -8em;
+    margin-left: 27em;
+    width: 700px;
+}
+
+h1{
+    font-size: 65px;
+}
+
+.size-p{
+    font-size:  x-small;
+}
+
+.h1-p{
+    margin-left: 6em ;
+    margin-top: 7em;
+}
+
+.bt1{
+    color: white;
+    background-color: blue;
+    padding: 0.5em;
 }
 
 /*main*/
 .sez-2{
-    height: 550px;
+    height: 610px;
 }
 .sez-3{
-    height: 550px;
+    height: 610px;
 }
 
 .sez-4{
-    height: 550px;
+    height: 610px;
 }
 
 .sez-5{
-    height: 550px;
+    height: 610px;
 }
 
 .sez-box{
-    height: 550px;
+    height: 610px;
 }
 
 .sez-bigbox{
-    height: 550px;
+    height: 610px;
 }
 
 .sez-ansawer{
-    height: 550px;
+    height: 610px;
 }
 
 /*footer*/
