@@ -14,6 +14,9 @@ body{
     border: 1px solid blue;
 }
 
+button{
+    border-style: none;
+}
 .bk{
     border: 1px solid red;
 }
@@ -72,7 +75,7 @@ li{
 }
 
 .jumbo{
-    margin-top: -8em;
+    margin-top: -14em;
     margin-left: 27em;
     width: 700px;
 }
@@ -94,6 +97,11 @@ h1{
     color: white;
     background-color: blue;
     padding: 0.5em;
+}
+
+.arrow{
+    font-size: xx-large;
+    padding-top: 3em;
 }
 
 /*main*/
