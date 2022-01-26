@@ -284,13 +284,42 @@ p{
 
 /*inizio-5 sezione */
 .sez-5{
-    height: 610px;
+    height: 1264px;
 }
 
 .bk-4{
-    border: green solid 1px;
+    border: transparent solid 1px;
 }
 
+.size-imge{
+    height: 240px;
+    float: left;
+    margin-top: 65px;
+}
+
+.sez5-float{
+    float: left;
+    margin-left: 168px;
+    margin-bottom: 10em;
+}
+
+.p1{
+    margin-right: 2em;
+    float: left;
+}
+
+.p2{
+    float: left;
+}
+
+.h2-sez5{
+    margin-left: 168px;
+}
+
+.h2-sez50{
+    margin-left: 168px;
+    margin-top: 5em;
+}
 
 
 
@@ -320,3 +349,4 @@ p{
 .footer-cont{
     height: 550px;
 }
+
