@@ -218,7 +218,7 @@ p{
 
 /*inizio-3 sezione */
 .sez-3{
-    height: 610px;
+    height: 259px;
 }
 
 .enter{
@@ -251,15 +251,45 @@ p{
     margin-top: 1em;
 }
 
-
-
-
-
-
 /*inizio-4 sezione */
 .sez-4{
     height: 610px;
 }
+
+.size-img{
+    width: 500px;
+}
+
+.move-img{
+    width: 500px;
+    margin-left: 168px;
+    margin-top: 7em;
+}
+
+.text-move{
+    width: 450px;
+    margin-left: 40em;
+    margin-top: -22em;
+}
+
+
+.img-bt{
+    border: solid;
+    width: 150px;
+    height: 35px;
+    background-color: white;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
 /*inizio-5 sezione */
 .sez-5{
     height: 610px;
