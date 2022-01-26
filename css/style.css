@@ -214,40 +214,65 @@ p{
 }
 
 
-.pro{
-    
-}
 
-.stan{
-    
-    
-}
-
-.adv{
-   
-}
 
 /*inizio-3 sezione */
 .sez-3{
     height: 610px;
 }
 
+.enter{
+    border: solid 1px gray;
+    height: 210px;
+    width: auto;
+    margin-top: 2em;
+    margin-left: 168px;
+    margin-right: 168px;
+}
+
+.box-team{
+    height: 60px;
+    border-bottom: solid 1px gray;
+    text-align: center;
+}
+
+.sez3-bt{
+    margin-left: 67em;
+    color: white;
+    background-color: blue;
+    padding: 0.5em;
+    width: 22em;
+    font-size: xx-small;
+    margin-top: -14px;
+}
+
+.enter-in{
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+
+
+
+
+
+/*inizio-4 sezione */
 .sez-4{
     height: 610px;
 }
-
+/*inizio-5 sezione */
 .sez-5{
     height: 610px;
 }
-
+/*inizio-box sezione */
 .sez-box{
     height: 610px;
 }
-
+/*inizio-bigbox sezione */
 .sez-bigbox{
     height: 610px;
 }
-
+/*inizio-ansawer sezione */
 .sez-ansawer{
     height: 610px;
 }
