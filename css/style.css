@@ -32,7 +32,7 @@ opacity: 80%;
     width: 100%;
     float: right;
     background-color: white;
-    
+   
 }
 
 .logo{
@@ -93,7 +93,7 @@ h1{
     font-size: 65px;
 }
 
-.size-p{
+p{
     font-size:  x-small;
 }
 
@@ -166,8 +166,10 @@ h1{
 }
 
 
-.pro{
-    
+.pro2{
+    margin-left: 25px;
+    margin-top: 20px;
+    line-height: 28px;
     
 }
 
