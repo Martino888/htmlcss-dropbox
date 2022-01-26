@@ -114,11 +114,13 @@ p{
 .arrow{
     font-size: xx-large;
     padding-top: 3em;
+    text-decoration: none;
+    color: black;
 }
 
 /*main*/
 .sez-2{
-    height: 1510px;
+    height: 1370px;
     
 }
 
@@ -156,15 +158,17 @@ p{
 }
 
 .column{
-    margin-top:2em;
+    margin-left: 7em;
 }
 
 .col{
     border: grey 1px solid;
     width: 300px;
-    height: 900px;
+    height: 1050px;
     display: inline-block;
-    margin-left: 10em;
+    float: left;
+    margin-left: 45px;
+    margin-top:2em;
 }
 
 
@@ -172,7 +176,6 @@ p{
     margin-left: 15px;
     margin-top: 20px;
     line-height: 28px;
-    float: left;
 }
 
 .singolo{
@@ -198,6 +201,7 @@ p{
     width: 16em;
     margin-left: 5px;
     margin-bottom: 25px;
+    
 }
 
 .margin{
@@ -211,18 +215,16 @@ p{
 
 
 .pro{
-    float: left;
+    
 }
 
 .stan{
-    margin-left:50px ;
-    float: left;
+    
+    
 }
 
 .adv{
-    position: absolute;
-    margin-top: -51px;
-    margin-left: 39px;
+   
 }
 
 /*inizio-3 sezione */
