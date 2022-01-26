@@ -154,7 +154,7 @@ h1{
 }
 
 .column{
-    margin-top:0.5em ;
+    margin-top:2em;
 }
 
 .col{
@@ -162,15 +162,32 @@ h1{
     width: 250px;
     height: 600px;
     display: inline-block;
-    margin: 2em;
-}
-
-.pro{
     margin-left: 10em;
 }
 
-.sta{
+
+.pro{
     
+    
+}
+
+.singolo{
+    height: 50px;
+    width: 249px;
+    border-bottom: grey 1px solid;
+    text-align: center;
+}
+
+.pro{
+    text-align: calc(1px);
+}
+
+.stan{
+    margin-left:50px ;
+}
+
+.adv{
+    margin-left:50px ;
 }
 
 /*inizio-3 sezione */
