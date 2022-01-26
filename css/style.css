@@ -32,7 +32,6 @@ opacity: 80%;
     width: 100%;
     float: right;
     background-color: white;
-   
 }
 
 .logo{
@@ -52,15 +51,17 @@ ul{
 
 .space-2{
     margin-right: 5px;
+    
 }
 
-a{
+.a{
     text-decoration: none;
     color: black;
 }
 li{
     float: left;
     margin-left: 2em;
+    
 }
 
 .button-nav{
@@ -150,6 +151,7 @@ p{
 }
 
 .fatturazione{
+    margin-left: 2em;
     margin-top:4em ;
 }
 
@@ -159,37 +161,68 @@ p{
 
 .col{
     border: grey 1px solid;
-    width: 250px;
-    height: 600px;
+    width: 300px;
+    height: 900px;
     display: inline-block;
     margin-left: 10em;
 }
 
 
 .pro2{
-    margin-left: 25px;
+    margin-left: 15px;
     margin-top: 20px;
     line-height: 28px;
-    
+    float: left;
 }
 
 .singolo{
     height: 50px;
-    width: 249px;
+    width: 300px;
     border-bottom: grey 1px solid;
     text-align: center;
 }
 
+.alin{
+    margin-left: 18px;
+}
+
+.line-g{
+    color: rgb(200, 194, 194);
+}
+
+.button-col{
+    margin-left: 18px;
+    color: white;
+    background-color: blue;
+    padding: 0.5em;
+    width: 16em;
+    margin-left: 5px;
+    margin-bottom: 25px;
+}
+
+.margin{
+    margin-left: 5px;
+}
+
+.visto{
+    color: blue;
+    font-size: 16px;
+}
+
+
 .pro{
-    text-align: calc(1px);
+    float: left;
 }
 
 .stan{
     margin-left:50px ;
+    float: left;
 }
 
 .adv{
-    margin-left:50px ;
+    position: absolute;
+    margin-top: -51px;
+    margin-left: 39px;
 }
 
 /*inizio-3 sezione */
