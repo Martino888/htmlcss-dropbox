@@ -85,6 +85,7 @@ li{
 }
 
 .jumbo{
+    float: left;
     margin-top: -14em;
     margin-left: 27em;
     width: 700px;
@@ -284,7 +285,7 @@ p{
 
 /*inizio-5 sezione */
 .sez-5{
-    height: 1264px;
+    height: 1350px;
 }
 
 .bk-4{
@@ -308,10 +309,6 @@ p{
     float: left;
 }
 
-.p2{
-    float: left;
-}
-
 .h2-sez5{
     margin-left: 168px;
 }
@@ -321,20 +318,83 @@ p{
     margin-top: 5em;
 }
 
-
-
-
-
-
-
-
-
-
-
 /*inizio-box sezione */
 .sez-box{
-    height: 610px;
+    height: 700px;
 }
+
+.box9{
+    float: left;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.box-left{
+    width: 400px;
+    height: 400px;
+}
+
+.box9center{
+    float: left;
+    width: 530px;
+    height: 400px;
+    background-color:rgb(219, 218, 218);
+}
+
+.box-right{
+    width: 400px;
+    height: 400px;
+}
+
+.box92{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+}
+
+.size-incard{
+    width: 100px;
+    margin: 50px;
+}
+
+.a1{
+    background-color: rgb(179, 223, 179);
+    border: solid 7px rgb(212, 245, 212);
+    padding-top: 22px;
+    
+}
+
+.b1{
+background-color: rgb(93, 22, 66);
+}
+
+.c1{
+background-color: rgb(34, 144, 180);
+}
+
+.d1{
+background-color: red;
+}
+
+.e2{
+background-color: crimson;
+}
+
+.f2{
+
+}
+
+.g2{
+
+}
+
+.h2{
+
+}
+
+
 /*inizio-bigbox sezione */
 .sez-bigbox{
     height: 610px;
