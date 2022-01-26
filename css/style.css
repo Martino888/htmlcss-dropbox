@@ -219,6 +219,7 @@ p{
 /*inizio-3 sezione */
 .sez-3{
     height: 259px;
+    width: 74em;
 }
 
 .enter{
@@ -281,19 +282,26 @@ p{
     margin-top: 15px;
 }
 
-
-
-
-
-
-
-
-
-
 /*inizio-5 sezione */
 .sez-5{
     height: 610px;
 }
+
+.bk-4{
+    border: green solid 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*inizio-box sezione */
 .sez-box{
     height: 610px;
