@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    max-width: 100%;
+    
     margin: auto;
 }
 
@@ -92,6 +92,11 @@ li{
     
 }
 
+.n91{
+    width: 80%;
+    margin: 0 auto;
+}
+
 .jumbo{
     float: left;
     margin-top: -14em;
@@ -167,12 +172,12 @@ p{
 }
 
 .column{
-    margin-left: 7em;
+    
 }
 
 .col{
     border: grey 1px solid;
-    width: 300px;
+    width: calc(100% / 3 - 45px);
     height: 1050px;
     display: inline-block;
     float: left;
@@ -301,9 +306,10 @@ p{
 }
 
 .size-imge{
-    height: 240px;
-    float: left;
-    margin-top: 65px;
+    width: 100%;
+    
+    
+    
 }
 
 .sez5-float{
@@ -315,6 +321,7 @@ p{
 .p1{
     margin-right: 2em;
     float: left;
+    width: calc(100% / 3 - 2em);
 }
 
 .h2-sez5{
@@ -341,6 +348,7 @@ p{
 .box-left{
     width: 400px;
     height: 400px;
+    float: left;
 }
 
 .box9center{
@@ -353,6 +361,7 @@ p{
 .box-right{
     width: 400px;
     height: 400px;
+    float: left;
 }
 
 .box92{
