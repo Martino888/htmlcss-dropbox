@@ -23,7 +23,7 @@ opacity: 80%;
 }
 
 .bk{
-    border: 1px solid transparent;
+    border: solid transparent;
 }
 
 /*header*/
@@ -90,7 +90,7 @@ li{
     clear: both;
 }
 .sez-1{
-    height: 630px;
+    
     background-color: rgb(134, 166, 226);
     
 }
@@ -116,7 +116,7 @@ p{
 }
 
 .h1-p{
-    margin-left: 6em ;
+    
     margin-top: 7em;
 }
 
@@ -137,7 +137,7 @@ p{
 
 /*main*/
 .sez-2{
-    height: 1370px;
+    
     
 }
 
@@ -301,7 +301,7 @@ p{
 
 /*inizio-5 sezione */
 .sez-5{
-    height: 1350px;
+   
 }
 
 .bk-4{
