@@ -276,9 +276,10 @@ p{
 }
 
 .move-img{
-    
-    margin-left: 178px;
-    margin-top: 7em;
+    margin-right: 8%;
+    margin-bottom: 8%;
+    margin-left: 13%;
+    margin-top: 8%;
 }
 
 .text-move{
@@ -305,16 +306,14 @@ p{
 }
 
 .size-imge{
-    width: 100%;
-    
-    
+    width: 80%;
     
 }
 
 .sez5-float{
     float: left;
-    margin-left: 168px;
-    margin-bottom: 5em;
+    margin-left: 13%;
+    margin-bottom: 7%;
 }
 
 .p1{
@@ -324,12 +323,12 @@ p{
 }
 
 .h2-sez5{
-    margin-left: 168px;
+    margin-left: 13%;
 }
 
 .h2-sez50{
-    margin-left: 168px;
-    margin-top: 5em;
+    margin-left: 13%;
+    margin-bottom: 5%;
 }
 
 /*inizio-box sezione */
@@ -359,7 +358,7 @@ p{
 }
 
 .desi-in{
-    margin: 1em;
+    margin: 6%;
 }
 
 .box-right{
@@ -377,13 +376,15 @@ p{
 
 .size-incard1{
     width: 100px;
-    margin: 50px;
     filter: invert(100%);
+    display: block;
+    margin: 50px auto;
+    text-align: center;
 }
 
 .size-incard2{
     width: 100px;
-    margin: 50px;
+    margin: 8%;
 }
 
 .a1{
@@ -447,14 +448,14 @@ background-color: crimson;
 
 /*inizio-ansawer sezione */
 .sez-ansawer{
-    height: 610px;
+   
     
 }
 
 .domande{
-    border: darkred solid 1px;
-    width: 832px;
-    
+    width: 76%;
+    display: block;
+    margin: 10%;
 }
 
 
