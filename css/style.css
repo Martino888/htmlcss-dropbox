@@ -234,10 +234,7 @@ p{
 
 
 /*inizio-3 sezione */
-.sez-3{
-    height: 259px;
-    
-}
+
 
 .enter{
     border: solid 1px gray;
@@ -271,7 +268,7 @@ p{
 
 /*inizio-4 sezione */
 .sez-4{
-    height: 610px;
+    
 }
 
 .size-img{
@@ -279,15 +276,14 @@ p{
 }
 
 .move-img{
-    width: 500px;
+    
     margin-left: 178px;
     margin-top: 7em;
 }
 
 .text-move{
-    width: 450px;
-    margin-left: 40em;
-    margin-top: -22em;
+    float: right;
+    display: inline-block;
 }
 
 
@@ -338,7 +334,7 @@ p{
 
 /*inizio-box sezione */
 .sez-box{
-    height: 200px;
+    
 }
 
 .box9{
@@ -428,7 +424,7 @@ background-color: crimson;
 
 /*inizio-bigbox sezione */
 .sez-bigbox{
-    height: 560px;
+    
     background-color: rgb(174, 198, 243);
 }
 
