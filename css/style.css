@@ -90,7 +90,7 @@ li{
     clear: both;
 }
 .sez-1{
-    height: 650px;
+    height: 630px;
     background-color: rgb(134, 166, 226);
     
 }
@@ -108,7 +108,7 @@ li{
 }
 
 h1{
-    font-size: 60px;
+    font-size: 59px;
 }
 
 p{
@@ -145,7 +145,7 @@ p{
 .h2{
     font-size: 35px;
     margin-top: 4em;
-    margin-left: 5em;
+    margin-left: 1em;
 
 }
 
@@ -166,7 +166,7 @@ p{
 .line{
     display: inline;
     margin-right: 10px;
-    margin-left:10em ;
+    
 }
 
 .fatturazione{
@@ -175,7 +175,7 @@ p{
 }
 
 .column{
-    
+    width: auto;
 }
 
 .col{
@@ -197,7 +197,7 @@ p{
 
 .singolo{
     height: 50px;
-    width: 300px;
+    width: auto;
     border-bottom: grey 1px solid;
     text-align: center;
 }
@@ -244,8 +244,8 @@ p{
     height: 210px;
     width: auto;
     margin-top: 2em;
-    margin-left: 168px;
-    margin-right: 168px;
+    margin-left: 45px;
+    
 }
 
 .box-team{
@@ -280,7 +280,7 @@ p{
 
 .move-img{
     width: 500px;
-    margin-left: 168px;
+    margin-left: 178px;
     margin-top: 7em;
 }
 
@@ -318,7 +318,7 @@ p{
 .sez5-float{
     float: left;
     margin-left: 168px;
-    margin-bottom: 10em;
+    margin-bottom: 5em;
 }
 
 .p1{
@@ -338,7 +338,7 @@ p{
 
 /*inizio-box sezione */
 .sez-box{
-    height: 700px;
+    height: 200px;
 }
 
 .box9{
@@ -359,6 +359,11 @@ p{
     width: calc(100% - 800px);
     height: 400px;
     background-color:rgb(219, 218, 218);
+    
+}
+
+.desi-in{
+    margin: 1em;
 }
 
 .box-right{
@@ -378,6 +383,11 @@ p{
     width: 100px;
     margin: 50px;
     filter: invert(100%);
+}
+
+.size-incard2{
+    width: 100px;
+    margin: 50px;
 }
 
 .a1{
@@ -404,22 +414,46 @@ background-color: crimson;
 }
 
 .f2{
-
+    background-color: rgb(174, 197, 241);
 }
 
 .g2{
-
+    background-color: darkblue;
 }
 
 .h21{
-
+ background-color: rgb(230, 230, 63);
 }
 
 
 /*inizio-bigbox sezione */
 .sez-bigbox{
     height: 610px;
+    background-color: rgb(174, 198, 243);
 }
+
+.purple{
+    color: darkred ;
+    font-size: 2em;
+    margin: 4em;
+}
+
+.h2-purple{
+    float: left;
+
+}
+
+.bt-bigbox{
+    padding: 0.5em;
+    width: 18em;   margin: 150px;
+}
+
+
+
+
+
+
+
 /*inizio-ansawer sezione */
 .sez-ansawer{
     height: 610px;
