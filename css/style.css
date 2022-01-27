@@ -345,7 +345,7 @@ p{
 
 .box9center{
     float: left;
-    width: 530px;
+    width: calc(100% - 800px);
     height: 400px;
     background-color:rgb(219, 218, 218);
 }
