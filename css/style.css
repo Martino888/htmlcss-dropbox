@@ -422,13 +422,13 @@ background-color: crimson;
 }
 
 .h21{
- background-color: rgb(230, 230, 63);
+    background-color: rgb(230, 230, 63);
 }
 
 
 /*inizio-bigbox sezione */
 .sez-bigbox{
-    height: 610px;
+    height: 560px;
     background-color: rgb(174, 198, 243);
 }
 
@@ -440,24 +440,36 @@ background-color: crimson;
 
 .h2-purple{
     float: left;
-
 }
 
 .bt-bigbox{
     padding: 0.5em;
-    width: 18em;   margin: 150px;
+    width: 18em;  
+    margin-top: 150px;
+    margin-left: 130px;
 }
-
-
-
-
-
-
 
 /*inizio-ansawer sezione */
 .sez-ansawer{
     height: 610px;
+    
 }
+
+.domande{
+    border: darkred solid 1px;
+    width: 832px;
+    
+}
+
+
+
+
+
+
+
+
+
+
 
 /*footer*/
 
