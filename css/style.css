@@ -136,17 +136,13 @@ p{
 }
 
 /*main*/
-.sez-2{
-    
-    
-}
+
 
 
 .h2{
     font-size: 35px;
     margin-top: 4em;
     margin-left: 1em;
-
 }
 
 .circle{
@@ -166,7 +162,6 @@ p{
 .line{
     display: inline;
     margin-right: 10px;
-    
 }
 
 .fatturazione{
@@ -218,7 +213,6 @@ p{
     width: 16em;
     margin-left: 5px;
     margin-bottom: 25px;
-    
 }
 
 .margin{
@@ -229,8 +223,6 @@ p{
     color: blue;
     font-size: 16px;
 }
-
-
 
 
 /*inizio-3 sezione */
@@ -267,9 +259,7 @@ p{
 }
 
 /*inizio-4 sezione */
-.sez-4{
-    
-}
+
 
 .size-img{
     width: 500px;
@@ -297,9 +287,7 @@ p{
 }
 
 /*inizio-5 sezione */
-.sez-5{
-   
-}
+
 
 .bk-4{
     border: transparent solid 1px;
@@ -332,9 +320,7 @@ p{
 }
 
 /*inizio-box sezione */
-.sez-box{
-    
-}
+
 
 .box9{
     float: left;
@@ -391,7 +377,6 @@ p{
     background-color: rgb(179, 223, 179);
     border: solid 7px rgb(212, 245, 212);
     padding-top: 22px;
-    
 }
 
 .b1{
@@ -425,7 +410,6 @@ background-color: crimson;
 
 /*inizio-bigbox sezione */
 .sez-bigbox{
-    
     background-color: rgb(174, 198, 243);
 }
 
@@ -460,19 +444,15 @@ background-color: crimson;
 .footer-cont{
     color: white;
     background-color: black;
+    width: auto;
 }
 
 .footer-a{
     text-decoration:none ;
     color: white;
-    
 }
 
 .footer-float{
     float: left;
 }
 
-h4{
-    
-    
-}
