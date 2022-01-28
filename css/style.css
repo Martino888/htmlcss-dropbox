@@ -439,6 +439,55 @@ background-color: crimson;
     margin: 10%;
 }
 
+.domande .q:last-child{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.q{
+    padding: 40px ;
+    border-top: solid 1px rgba(0, 0, 0, 0.3) ;
+    position: relative;
+}
+
+.q> p{
+    font-weight: bolder;
+}
+
+.x{
+    margin: 20px;
+    display: none;
+    opacity: 0.5;
+}
+
+.q:hover .x {
+    display:block ;
+}
+
+.feccetta{
+    position: absolute;
+    right: 1em;
+}
+.feccetta .fa-chevron-up{
+    display: none;
+}
+
+
+.q:hover .feccetta .fa-chevron-up{
+    display: block;
+}
+
+.q:hover .feccetta .fa-chevron-down{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
 /*footer*/
 
 .bkg-dark{
