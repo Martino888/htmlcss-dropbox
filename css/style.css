@@ -468,6 +468,25 @@ background-color: crimson;
     padding-bottom: 3em;
 }
 
-.position-footer{
+.line-bottom{
+    color: white;
+    padding-bottom: 1em;
+    float: left;
+    padding-left: 9%;
+}
 
+.leng-it{
+    color: rgb(158, 158, 158);
+padding-bottom: 5em;
+float: left;
+padding-left: 9%;
+}
+
+.planet{
+width: 15px;
+}
+
+.switch{
+    color:rgb(158, 158, 158) ;
+    background-color: black;
 }
