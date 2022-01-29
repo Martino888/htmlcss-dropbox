@@ -142,8 +142,8 @@ p{
 
 .h2{
     font-size: 35px;
-    margin-top: 4em;
-    margin-left: 1em;
+    padding-top: 4em;
+    padding-left: 1em;
 }
 
 .circle{
@@ -207,12 +207,10 @@ p{
 }
 
 .button-col{
-    margin-left: 18px;
     color: white;
     background-color: blue;
     padding: 0.5em;
     width: 16em;
-    margin-left: 5px;
     margin-bottom: 25px;
 }
 
@@ -241,6 +239,10 @@ p{
     text-align: center;
 }
 
+.h3-enterprise{
+    display: inline-block;
+}
+
 .sez3-bt{
     margin-left: 67em;
     color: white;
@@ -248,7 +250,6 @@ p{
     padding: 0.5em;
     width: 22em;
     font-size: xx-small;
-    margin-top: -14px;
 }
 
 .enter-in{
@@ -340,7 +341,7 @@ p{
     width: calc(100% - 800px);
     height: 400px;
     background-color:rgb(219, 218, 218);
-    
+    overflow: auto;
 }
 
 .desi-in{
