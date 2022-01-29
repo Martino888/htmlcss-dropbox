@@ -93,6 +93,9 @@ button:hover{
     display: table;
     clear: both;
 }
+
+
+/*main*/
 .sez-1{
     background-color: rgb(134, 166, 226);
 }
@@ -136,9 +139,7 @@ p{
     color: black;
 }
 
-/*main*/
-
-
+/*sezione 2 con piani di pagamenti e colonne */
 
 .h2{
     font-size: 35px;
@@ -223,7 +224,7 @@ p{
     font-size: 16px;
 }
 
-/*inizio-3 sezione */
+/*inizio sezione-3 tabella orizzontale Enterprise */
 
 .enter{
     border: solid 1px gray;
@@ -257,7 +258,7 @@ p{
     margin-top: 1em;
 }
 
-/*inizio-4 sezione */
+/*inizio-4 foto con tasto trova un partner sezione */
 
 
 .size-img{
@@ -288,7 +289,7 @@ p{
     margin-top: 15px;
 }
 
-/*inizio-5 sezione */
+/*inizio-5 sezione svg in colonna con titolo e paragrafo */
 
 
 .bk-4{
@@ -321,7 +322,7 @@ p{
     padding-bottom: 5%;
 }
 
-/*inizio-box sezione */
+/*inizio sezione-box cards colorate 4+1+4 = box9+box9center+box92 */
 
 
 .box9{
@@ -409,7 +410,7 @@ p{
 }
 
 
-/*inizio-bigbox sezione */
+/*inizio sezione-bigbox contiene titolo piu tasto bianco */
 .sez-bigbox{
     background-color: rgb(174, 198, 243);
 }
@@ -431,7 +432,7 @@ p{
     margin-left: 130px;
 }
 
-/*inizio-ansawer sezione */
+/*inizio sezione-ansawer con hover class:q = div contenitore --- class:x = risposta    */
 
 
 .domande{
