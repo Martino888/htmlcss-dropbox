@@ -14,6 +14,15 @@ header{
     font-size: xx-small;
 }
 
+
+h1{
+    font-size: 59px;
+}
+
+p{
+    font-size:  x-small;
+}
+
 button{
     border-style: none;
 }
@@ -98,6 +107,8 @@ button:hover{
 /*main*/
 .sez-1{
     background-color: rgb(134, 166, 226);
+    height: 35em;
+    width: 100%;
 }
 
 .n91{
@@ -112,14 +123,6 @@ button:hover{
     width: 700px;
 }
 
-h1{
-    font-size: 59px;
-}
-
-p{
-    font-size:  x-small;
-}
-
 .h1-p{
     margin-top: 7em;
 }
@@ -129,12 +132,21 @@ p{
     background-color: blue;
     padding: 0.5em;
     width: 15em;
+    margin-top: 1em;
 }
 
 
+.padding-bottom-p{
+    padding-bottom: 2em;
+}
+
+.position-p{
+    display: inline;
+}
+
 .arrow{
-    font-size: xx-large;
-    padding-top: 3em;
+    width: 4em;
+    height: 2em;
     text-decoration: none;
     color: black;
 }
