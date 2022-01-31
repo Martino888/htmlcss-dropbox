@@ -40,8 +40,9 @@ button:hover{
 .nav-main{
     width: 100%;
     position: fixed;
-    height: 60px;
+    height: 70px;
     background-color: white;
+    border-bottom: 1px solid lightgray;
 }
 
 .nav-main ul {
