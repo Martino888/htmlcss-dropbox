@@ -191,7 +191,7 @@ button:hover{
 .col{
     border: grey 1px solid;
     width: calc(100% / 3 - 45px);
-    height: 1050px;
+    min-height: 1050px;
     display: block;
     float: left;
     margin-left:45px;
